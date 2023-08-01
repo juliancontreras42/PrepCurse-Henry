@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Este es un repositorio del modulo 2 prepcurse de henry
+este proyecto es una prueba de como crear un repositorio y clonarlo en gitbush
